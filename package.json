@@ -1,0 +1,26 @@
+{
+  "name": "meanapp_intro",
+  "version": "1.0.0",
+  "description": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+  "main": "readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakbhatt16/Employee-Record-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarthakbhatt16/Employee-Record-System/issues"
+  },
+  "homepage": "https://github.com/sarthakbhatt16/Employee-Record-System#readme",
+  "author": ""
+}
