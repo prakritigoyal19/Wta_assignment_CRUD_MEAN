@@ -1,4 +1,8 @@
-# Employee-record-system (MongoDb, Angular, Express, Node)
+# Employee Appraisal Management System
+Made using AngularJS, Express, Node and database as MongoDB
+
+Performs CRUD operations.
+
 To Run:
 1. npm install
 2. sudo npm install -g express
